@@ -1,0 +1,5 @@
+aws_access_key="AKIA2YKHRWGUMSGHFO4R"
+aws_secret_key="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"
+aws_instance_type="t2.large"
+subnet_id="subnet-6f127555"
+aws_key_pair = "AWS-Market-Place"
